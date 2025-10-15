@@ -1,1 +1,1 @@
-# lab-1-2-task
+read the demo file for user instructions
